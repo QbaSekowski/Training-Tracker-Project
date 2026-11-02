@@ -43,3 +43,13 @@ Stakeholders should have ability to view analytics for all submitted application
 - Have a branded design (Innowise logo attached)
 - Have a user-friendly interface
 - Be able to visualize data and analyze it in real time
+
+This solution is dependent on the following three managed solutions. Import will fail if these managed solutions do not exist in the target environment:
+CreatorKitCore
+1.0.20260417.1
+
+msdyn_AppFrameworkInfraExtensions
+1.0.0.27
+
+AppModuleWebResources
+2.5
