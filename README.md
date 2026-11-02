@@ -45,6 +45,7 @@ Stakeholders should have ability to view analytics for all submitted application
 - Be able to visualize data and analyze it in real time
 
 This solution is dependent on the following three managed solutions. Import will fail if these managed solutions do not exist in the target environment:
+
 CreatorKitCore
 1.0.20260417.1
 
